@@ -8,7 +8,7 @@
 <title>Index</title>
 </head>
 <body>
-	<h2>Hola mundo</h2>
+	<h2>Hola Mundo</h2>
 	<form action="persona" method="get">
 		<label>Ingrese su nombre</label> 
 		<input type="text" name="nombre">
